@@ -1,0 +1,7 @@
+Steps:
+(1) Run main.tcl to obtain the seismic displacement response results of the SDOF system (in RESULT folder).
+(2) Run truncation_points.m to determine the truncation point of the ground motion.
+
+Note:
+
+"truncation_points.mat" is the final result.

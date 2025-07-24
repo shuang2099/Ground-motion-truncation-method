@@ -1,0 +1,10 @@
+The novel 2D-CNN-BiGRU based multi-input to single-output DNN model is established to predict the truncation point of ground motion, so that the computational efficiency of structural seismic response analysis is significantly improved in two aspects: (1) rapidly obtaining ground motion truncation points through efficient deep neural network algorithms during the prediction phase; (2) reducing computational workload and shortening analysis time during the time-history analysis phase by using the truncated ground motion records.
+
+**Dataset
+GMdataset folder and dataset.csv
+
+**Train and test
+train-test.ipynb
+"trained model.h5" is the trained model
+"predict_dataset_result.xlsx" is the prediction results for test dataset
+
