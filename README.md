@@ -13,4 +13,5 @@ Other details can be found in the following reference:
 
 - Yiting He, Jianjun Zhao*, Lan Yao, Shuang Li*. A deep learning-based ground motion truncation method to improve efficiency of structural time history analysis. Structures, 2024, 63: 106381.
 
-- If there are questions: Please contact Ph.D, Yiting He (何依婷) heyiting1027@qq.com
+
+If there are questions: Please contact Ph.D, Yiting He (何依婷) heyiting1027@qq.com
