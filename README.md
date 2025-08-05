@@ -11,4 +11,6 @@ Other details can be found in the following reference:
 
 - Shuang Li*, Yiting He, Yuliang Wei. Truncation method of ground motion records based on the equivalence of structural maximum displacement responses. Journal of Earthquake Engineering, 2022, 26(10): 5268-5289.
 
-- Yiting He, Jianjun Zhao*, Lan Yao, Shuang Li*. A deep learning-based ground motion truncation method to improve efficiency of structural time history analysis. Structures, 2024, 63: 106381. 
+- Yiting He, Jianjun Zhao*, Lan Yao, Shuang Li*. A deep learning-based ground motion truncation method to improve efficiency of structural time history analysis. Structures, 2024, 63: 106381.
+
+- If there are questions: Please contact Ph.D, Yiting He (何依婷) heyiting1027@qq.com
